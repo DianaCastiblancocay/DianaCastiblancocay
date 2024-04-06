@@ -1,4 +1,10 @@
 ### Hi there 👋
+Soy estudiante de estadística y ciencias actuariales. Actualmente curso quinto semestre, mi interes es aprender análisis de bases de datos y mejorar mis habilidades con las nuevas tendencias.
+Deseo aprender python, R y otras herramientas para ser mas competente laboralemnte.  Me interesan los temas en seguros, bolsa de valores y estadística. 
+
+![Static Badge](https://img.shields.io/badge/-linkedin-red?style=plastic)
+
+
 
 <!--
 **DianaCastiblancocay/DianaCastiblancocay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
