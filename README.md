@@ -4,6 +4,10 @@ Deseo aprender python, R y otras herramientas para ser mas competente laboralemn
 
 ![Static Badge](https://img.shields.io/badge/-linkedin-red?style=plastic)
 
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=DianaCastiblancocay.DianaCastiblancocay" alt="Visitors">                
+</p>
+
 
 
 <!--
